@@ -1,0 +1,19 @@
+Customer Analysis :
+
+Revenue by State:
+California leads with the highest revenue, generating $3.9 million, followed by Texas with $3.5 million. Over 40% of states have less than $1 million in revenue. States with the lowest revenue include Hawaii and Delaware.
+
+Revenue by Month:
+December is the top revenue-generating month, with $57.7 million, followed by April at $36.7 million. The most significant revenue growth occurs between November and December, far outpacing growth seen in any other months.
+
+Revenue by Age Group:
+Teenagers and senior citizens contribute less to overall revenue, while individuals aged 20 to 70 generate an average of $10 million. Overall, total revenue across all age groups exceeds $50 million, with December being the highest-earning month.
+
+Discount and Quantity Correlation:
+The scatter plot shows a rapid increase in discount percentage for quantities between 1 to 13 lbs. For orders over 100 lbs, discounts start at 25% and continue to rise as the order size increases.
+
+Revenue by Region:
+The South region has the highest revenue, while the Northeast has the lowest.
+
+Revenue by Gender and Category:
+Male revenue surpasses female revenue, with the top 3 revenue-generating categories across genders being mobile devices, entertainment, and appliances. In contrast, spending on books and education is relatively low.
